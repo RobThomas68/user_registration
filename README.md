@@ -1,3 +1,6 @@
+## Frontend React User Registration Interface
+Collects and validates user registration data fields
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
